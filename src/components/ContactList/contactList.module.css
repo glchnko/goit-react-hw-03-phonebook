@@ -1,0 +1,14 @@
+.list {
+    width: 600px;
+}
+
+.item {
+    display: flex;
+     align-items: center;
+    padding: 12px;
+}
+
+.button {
+    margin-right: 4px;
+    margin-left: 4px;
+}
